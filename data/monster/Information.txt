@@ -1,0 +1,1 @@
+-- Carpeta original de Deconstruction con adaptaciones para los custom monsters de Guia3d.
